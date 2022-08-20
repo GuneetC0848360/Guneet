@@ -1,4 +1,4 @@
-import numpy as np
+
 import matplotlib.pyplot as plt
 
 Hours_taken = [9,11,12 ,19 ]
